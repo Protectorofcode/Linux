@@ -1,0 +1,1 @@
+print("some text in file 3")
